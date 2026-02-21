@@ -1,0 +1,3 @@
+spring:
+  application.name: blk-hacking-ind-rohit-jain
+  mvc.format.date-time: yyyy-MM-dd HH:mm:ss
